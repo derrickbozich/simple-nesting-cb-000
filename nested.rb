@@ -62,8 +62,7 @@ def dennis_ritchies_language
      }
 
 		 laguange = programmer_hash[:dennis_ritchie][:languages]
-		 laguange = laguange.to_s
-		 laguange
+		 
 end
 
 def adding_matz
